@@ -1,7 +1,0 @@
-version: "Apple Swift version 5.1 (swiftlang-1100.0.212.5 clang-1100.0.28.2)"
-options: "7642d75c58d408b969aedec981f9ce59"
-build_time: [1563188788, 323447000]
-inputs:
-  "/Users/Harry/Documents/Developer/SwiftUI/SwiftUI/ViewController.swift": [1563188052, 640209420]
-  "/Users/Harry/Documents/Developer/SwiftUI/SwiftUI/AppDelegate.swift": [1563188154, 955559532]
-  "/Users/Harry/Documents/Developer/SwiftUI/SwiftUI/SceneDelegate.swift": [1563188631, 389518457]
